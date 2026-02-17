@@ -17,3 +17,9 @@ Playbooks: Step-by-step guides for responding to active threats (e.g., Phishing)
 Incidents: Post-mortem reports and root cause analysis of simulated breaches.
 
 Assets: Network diagrams, attack flowcharts, and evidence screenshots.
+
+📈 Skills Demonstrated
+• Incident Response Lifecycle: Mapping actions to the NIST SP 800-61 framework.
+• Technical Writing: Translating complex security threats into actionable steps.
+• Version Control: Managing security documentation using Git workflows.
+• Threat Modeling: Visualizing attack vectors using Mermaid diagrams.
