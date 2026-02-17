@@ -17,3 +17,11 @@ Check for mismatched URLs, suspicious sender domains, and urgent language.
 
 * Remove the malicious email from all user inboxes using PowerShell or Admin tools.
 * Scan the affected machines for malware/backdoors.
+
+graph TD
+    A[Phishing Email Reported] -->
+B{Link Clicked?}
+    B -- No --> C[Delete Email & Block Sender]
+    B -- Yes --> D[Isolate Host Device]
+    D --> E[Reset User Credentials]
+    E --> F[Scan for Persistence]
