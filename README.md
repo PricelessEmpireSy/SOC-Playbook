@@ -10,3 +10,6 @@ This repository serves as a centralized Security Operations Center (SOC) Wiki. I
 • GitHub Actions: Automated validation of documentation structure.
 • Mermaid.js: Integrated diagrams for visualizing attack lifecycles.
 • Markdown: Standardized formatting for high readability.
+
+📂 Repository Structure
+Playbooks: Step-by-step guides for responding to active threats (e.g., Phishing). 
