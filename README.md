@@ -29,7 +29,7 @@ This Project is deployed using GitHub Pages. You can view the formatted, searcha
 
 • Phishing Response: Procedures for identifying and neutralizing malicious email campaigns.
 • Unauthorized access (Coming Soon): Response steps for suspicious login activity.
-• Malware Outbreak (Coming Soon): Containment and Eradication of endpoint infections.
+• Malware Outbreak (Coming Soon): Containment and eradication of endpoint infections.
 
 📈 Skills Demonstrated
 
