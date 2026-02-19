@@ -27,8 +27,8 @@ This Project is deployed using GitHub Pages. You can view the formatted, searcha
 
 📚Current Playbooks
 
-• Phishing Response: Procedures for identifying and neutralising malicious email campaigns.
-• Unauthorised access (Coming Soon): Response steps for suspicious login activity.
+• Phishing Response: Procedures for identifying and neutralizing malicious email campaigns.
+• Unauthorized access (Coming Soon): Response steps for suspicious login activity.
 • Malware Outbreak (Coming Soon): Containment and Eradication of endpoint infections.
 
 📈 Skills Demonstrated
