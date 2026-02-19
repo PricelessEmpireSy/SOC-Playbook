@@ -18,6 +18,14 @@ Incidents: Post-mortem reports and root cause analysis of simulated breaches.
 
 Assets: Network diagrams, attack flowcharts, and evidence screenshots.
 
+Live Documentation
+This Project is deployed using GitHub Pages. You can view the formatted, searchable wiki here: 👉
+
+📚Current Playbooks
+• Phishing Response: Procedures for identifying and neutralising malicious email campaigns.
+• Unauthorised access (Coming Soon): Response steps for suspicious login activity.
+• Malware Outbreak (Coming Soon): Containment and Eradication of endpoint infections.
+
 📈 Skills Demonstrated
 • Incident Response Lifecycle: Mapping actions to the NIST SP 800-61 framework.
 • Technical Writing: Translating complex security threats into actionable steps.
