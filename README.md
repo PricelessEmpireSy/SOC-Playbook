@@ -19,13 +19,13 @@ Playbooks: Step-by-step guides for responding to active threats (e.g., Phishing)
 
 Incidents: Post-mortem reports and root cause analysis of simulated breaches.
 
-Assets: Network diagrams, attack flowcharts, and evidence screenshots.
+Assets: Network diagrams, attack flowcharts and evidence screenshots.
 
 Live Documentation
 
 This Project is deployed using GitHub Pages. You can view the formatted, searchable wiki here: 👉 https://pricelessempiresy.github.io/SOC-Playbook/
 
-📚Current Playbooks
+📚 Current Playbooks
 
 • Phishing Response: Procedures for identifying and neutralizing malicious email campaigns.
 • Unauthorized access (Coming Soon): Response steps for suspicious login activity.
