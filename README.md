@@ -1,4 +1,5 @@
-SOC Operations & Incident Response Playbook
+# SOC Operations & Incident Response Playbook
+
 Author: M.A.A.
 Focus: Incident Response (IR), Threat Mitigation, and Security Documentation.
 
@@ -15,7 +16,7 @@ This repository serves as a centralized Security Operations Center (SOC) Wiki. I
 
 📂 Repository Structure
 
-Playbooks: Step-by-step guides for responding to active threats (e.g., Phishing). 
+Playbooks: Step-by-step guides for responding to active threats (e.g., Phishing).
 
 Incidents: Post-mortem reports and root cause analysis of simulated breaches.
 
@@ -23,7 +24,7 @@ Assets: Network diagrams, attack flowcharts and evidence screenshots.
 
 Live Documentation
 
-This Project is deployed using GitHub Pages. You can view the formatted, searchable wiki here: 👉 https://pricelessempiresy.github.io/SOC-Playbook/
+This Project is deployed using GitHub Pages. You can view the formatted, searchable wiki here: 👉 [https://pricelessempiresy.github.io/SOC-Playbook/]
 
 📚 Current Playbooks
 
