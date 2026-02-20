@@ -35,8 +35,11 @@ This Project is deployed using GitHub Pages. You can view the formatted, searcha
 ## 📈 Skills Demonstrated
 
 • Incident Response Lifecycle: Mapping actions to the NIST SP 800-61 framework.
+
 • Technical Writing: Translating complex security threats into actionable steps.
+
 • Version Control: Managing security documentation using Git workflows.
+
 • Threat Modeling: Visualizing attack vectors using Mermaid diagrams.
 
 ![Visitor Map](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2F[PricelessEmpireSy]%2FSOC-Playbook&labelColor=%2337d67a&countColor=%23263238&style=flat)
