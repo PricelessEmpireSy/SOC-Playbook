@@ -1,6 +1,6 @@
 # SOC Operations & Incident Response Playbook
 
-![SOC Dashboard Header](./assets/soc-thumbnail.png)
+![Header](./assets/soc-thumbnail.png)
 
 Author: Mercy Amarachi Agbayi
 
