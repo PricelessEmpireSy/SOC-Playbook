@@ -1,5 +1,7 @@
 # SOC Operations & Incident Response Playbook
 
+![SOC Dashboard Header](./assets/soc-thumbnail.png)
+
 Author: Mercy Amarachi Agbayi
 
 Focus: Incident Response (IR), Threat Mitigation, and Security Documentation.
