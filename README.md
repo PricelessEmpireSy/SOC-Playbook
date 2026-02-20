@@ -1,6 +1,6 @@
-# SOC Operations & Incident Response Playbook
-
 <link rel="icon" type="image/png"href="./favicon.png">
+
+# SOC Operations & Incident Response Playbook
 
 ![Header](assets/soc-thumbnail.png.jpg)
 
