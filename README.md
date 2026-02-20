@@ -1,6 +1,6 @@
 # SOC Operations & Incident Response Playbook
 
-![Header](./assets/soc-thumbnail.png)
+![Header](https://github.com/PricelessEmpireSy/SOC-Playbook/blob/main/assets/soc-thumbnail.png.jpg)
 
 Author: Mercy Amarachi Agbayi
 
