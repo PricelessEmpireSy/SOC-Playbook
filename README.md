@@ -38,3 +38,18 @@ This Project is deployed using GitHub Pages. You can view the formatted, searcha
 • Technical Writing: Translating complex security threats into actionable steps.
 • Version Control: Managing security documentation using Git workflows.
 • Threat Modeling: Visualizing attack vectors using Mermaid diagrams.
+
+graph LR
+    subgraph "External"
+    A[Internet] --> B[Firewall]
+    end
+    subgraph "Internal SOC"
+    B --> C{SIEM Alert}
+    C -->|High Risk| D[Playbook Execution]
+    C -->|Low Risk| E[Logging]
+    D --> F[Breach Report]
+    end
+    style D fill:#f96,stroke:#333,stroke-width:2px
+    style F fill:#6cf,stroke:#333,stroke-width:2px
+
+![Visitor Map](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2F[YOUR-USERNAME]%2FSOC-Playbook&labelColor=%2337d67a&countColor=%23263238&style=flat)
