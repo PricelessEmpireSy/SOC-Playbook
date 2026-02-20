@@ -3,18 +3,18 @@
 Author: M.A.A.
 Focus: Incident Response (IR), Threat Mitigation, and Security Documentation.
 
-Project Overview
+## Project Overview
 
 This repository serves as a centralized Security Operations Center (SOC) Wiki. It documents standardized procedures for responding to common cyber threats and provides a framework for analyzing security incidents. By utilizing "Infrastructure as Code" principles, this project ensures that security responses are repeatable, measurable, and transparent.
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 • VS Code: Primary environment for playbook development and Markdown linting.
 • GitHub Actions: Automated validation of documentation structure.
 • Mermaid.js: Integrated diagrams for visualizing attack lifecycles.
 • Markdown: Standardized formatting for high readability.
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 Playbooks: Step-by-step guides for responding to active threats (e.g., Phishing).
 
@@ -22,17 +22,17 @@ Incidents: Post-mortem reports and root cause analysis of simulated breaches.
 
 Assets: Network diagrams, attack flowcharts and evidence screenshots.
 
-Live Documentation
+## Live Documentation
 
 This Project is deployed using GitHub Pages. You can view the formatted, searchable wiki here: 👉 [https://pricelessempiresy.github.io/SOC-Playbook/]
 
-📚 Current Playbooks
+## 📚 Current Playbooks
 
 • Phishing Response: Procedures for identifying and neutralizing malicious email campaigns.
 • Unauthorized access (Coming Soon): Response steps for suspicious login activity.
 • Malware Outbreak (Coming Soon): Containment and eradication of endpoint infections.
 
-📈 Skills Demonstrated
+## 📈 Skills Demonstrated
 
 • Incident Response Lifecycle: Mapping actions to the NIST SP 800-61 framework.
 • Technical Writing: Translating complex security threats into actionable steps.
