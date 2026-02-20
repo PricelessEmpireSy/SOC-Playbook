@@ -1,6 +1,7 @@
 # SOC Operations & Incident Response Playbook
 
-Author: M.A.A.
+Author: Mercy Amarachi Agbayi
+
 Focus: Incident Response (IR), Threat Mitigation, and Security Documentation.
 
 ## Project Overview
@@ -10,8 +11,11 @@ This repository serves as a centralized Security Operations Center (SOC) Wiki. I
 ## 🛠️ Tech Stack & Tools
 
 • VS Code: Primary environment for playbook development and Markdown linting.
+
 • GitHub Actions: Automated validation of documentation structure.
+
 • Mermaid.js: Integrated diagrams for visualizing attack lifecycles.
+
 • Markdown: Standardized formatting for high readability.
 
 ## 📂 Repository Structure
@@ -24,12 +28,16 @@ Assets: Network diagrams, attack flowcharts and evidence screenshots.
 
 ## Live Documentation
 
-This Project is deployed using GitHub Pages. You can view the formatted, searchable wiki here: 👉 [Visit site](https://pricelessempiresy.github.io/SOC-Playbook/)
+This Project is deployed using GitHub Pages.
+
+You can view the formatted, searchable wiki here: 👉 [Visit site](https://pricelessempiresy.github.io/SOC-Playbook/)
 
 ## 📚 Current Playbooks
 
 • Phishing Response: Procedures for identifying and neutralizing malicious email campaigns.
+
 • Unauthorized access (Coming Soon): Response steps for suspicious login activity.
+
 • Malware Outbreak (Coming Soon): Containment and eradication of endpoint infections.
 
 ## 📈 Skills Demonstrated
