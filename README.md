@@ -42,7 +42,7 @@ You can view the formatted, searchable wiki here: 👉 [Visit site](https://pric
 
 • Unauthorized access: Response steps for suspicious login activity.
 
-• Malware Outbreak (Coming Soon): Containment and eradication of endpoint infections.
+• Malware Outbreak (Coming: Containment and eradication of endpoint infections.
 
 ## 📈 Skills Demonstrated
 
