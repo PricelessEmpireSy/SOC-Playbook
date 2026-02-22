@@ -40,7 +40,7 @@ You can view the formatted, searchable wiki here: 👉 [Visit site](https://pric
 
 • Phishing Response: Procedures for identifying and neutralizing malicious email campaigns.
 
-• Unauthorized access: Response steps for suspicious login activity(ies).
+• Unauthorized access: Response steps for suspicious login activities .
 
 • Malware Outbreak: Containment and eradication of endpoint infections.
 
