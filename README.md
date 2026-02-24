@@ -8,6 +8,8 @@ Author: Mercy Amarachi Agbayi
 
 Focus: Incident Response (IR), Threat Mitigation, and Security Documentation.
 
+![Security Scan](https://img.shields.io/github/actions/workflow/status/PricelessEmpireSy/SOC-Playbook/codeql.yml?branch=main&label=Security%20Scan&style=flat-edge)
+
 ## Project Overview
 
 This repository serves as a centralized Security Operations Center (SOC) Wiki. It documents standardized procedures for responding to common cyber threats and provides a framework for analyzing security incidents. By utilizing "Infrastructure as Code" principles, this project ensures that security responses are repeatable, measurable, and transparent.
