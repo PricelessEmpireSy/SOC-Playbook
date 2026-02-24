@@ -50,7 +50,7 @@ You can view the formatted, searchable wiki here: 👉 [Visit site](https://pric
 
 • Incident Response Lifecycle: Mapping actions to the NIST SP 800-61 framework.
 
-• Technical Writing: Translating complex security threats into actionable steps.
+• Technical Writing: Translating complex security threats into actionable step
 
 • Version Control: Managing security documentation using Git workflows.
 
