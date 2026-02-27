@@ -40,7 +40,7 @@ You can view the formatted, searchable wiki here: 👉 [Visit site](https://pric
 
 ## 📚 Current Playbooks
 
-• Phishing Response: Procedures for identifying and neutralizing malicious email campaigns.
+• Phishing Response: Procedures for identifying & neutralizing malicious email campaigns.
 
 • Unauthorized access: Response steps for suspicious login activities.
 
