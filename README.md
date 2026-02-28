@@ -28,7 +28,7 @@ This repository serves as a centralized Security Operations Center (SOC) Wiki. I
 
 Playbooks: Step-by-step guides for responding to active threats (example is Phishing).
 
-Incidents: Post-mortem reports and root cause analysis of simulated breaches.
+Incidents: Post-mortem reports & root cause analysis of simulated breaches.
 
 Assets: Network diagrams, attack flowcharts, and evidence screenshots.
 
