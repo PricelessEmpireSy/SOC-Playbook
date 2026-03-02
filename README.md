@@ -30,7 +30,7 @@ Playbooks: Step-by-step guides for responding to active threats (example, Phishi
 
 Incidents: Post-mortem reports and root cause analysis of simulated breaches.
 
-Assets: Network diagrams, attack flowcharts, and evidence screenshots.
+Assets: Network diagrams, attack flowcharts and evidence screenshots.
 
 ## Live Documentation
 
