@@ -26,7 +26,7 @@ This repository serves as a centralized Security Operations Center (SOC) Wiki. I
 
 ## 📂 Repository Structure
 
-Playbooks: Step-by-step guides for responding to active threats (example, Phishing).
+Playbooks: Step-by-step guides for responding to active threats (example is, Phishing).
 
 Incidents: Post-mortem reports and root cause analysis of simulated breaches.
 
@@ -40,7 +40,7 @@ You can view the formatted, searchable wiki here: 👉 [Visit site](https://pric
 
 ## 📚 Current Playbooks
 
-• Phishing Response: Procedures for identifying and neutralizing malicious email campaigns.
+• Phishing Response: Procedures for identifying, and neutralizing malicious email campaigns.
 
 • Unauthorized access: Response steps for suspicious login activities.
 
