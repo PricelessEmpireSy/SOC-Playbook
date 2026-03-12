@@ -18,7 +18,7 @@ This repository serves as a centralized Security Operations Center (SOC) Wiki. I
 
 • VS Code: Primary environment for playbook development and Markdown linting.
 
-• GitHub Actions: Automated Validation of documentation structure.
+• GitHub Actions: Automated validation of documentation structure.
 
 • Mermaid.js: Integrated diagrams for visualizing attack lifecycles.
 
@@ -28,7 +28,7 @@ This repository serves as a centralized Security Operations Center (SOC) Wiki. I
 
 Playbooks: Step-by-step guides for responding to active threats (example is, Phishing).
 
-Incidents: Post-mortem reports & root cause analysis of simulated breaches.
+Incidents: Post-mortem reports and root cause analysis of simulated breaches.
 
 Assets: Network diagrams, attack flowcharts, and evidence screenshots.
 
@@ -44,7 +44,7 @@ You can view the formatted, searchable wiki here: 👉 [Visit site](https://pric
 
 • Unauthorized access: Response steps for suspicious login activities.
 
-• Malware Outbreak: Containment & eradication of endpoint infections.
+• Malware Outbreak: Containment and eradication of endpoint infections.
 
 ## 📈 Skills Demonstrated
 
