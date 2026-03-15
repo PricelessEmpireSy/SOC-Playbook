@@ -30,7 +30,7 @@ Playbooks: Step-by-step guides for responding to active threats (example is, Phi
 
 Incidents: Post-mortem reports and root cause analysis of simulated breaches.
 
-Assets: Network diagrams, attack flowcharts, and evidence screenshots.
+Assets: Network diagrams, attack flowcharts and evidence screenshots.
 
 ## Live Documentation
 
@@ -44,7 +44,7 @@ You can view the formatted, searchable wiki here: 👉 [Visit site](https://pric
 
 • Unauthorized access: Response steps for suspicious login activities.
 
-• Malware Outbreak: Containment and eradication of endpoint infections.
+• Malware Outbreak: Containment and Eradication of endpoint infections.
 
 ## 📈 Skills Demonstrated
 
