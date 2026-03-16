@@ -44,7 +44,7 @@ You can view the formatted, searchable wiki here: 👉 [Visit site](https://pric
 
 • Unauthorized access: Response steps for suspicious login activities.
 
-• Malware Outbreak: Containment and Eradication of endpoint infections.
+• Malware Outbreak: Containment & eradication of endpoint infections.
 
 ## 📈 Skills Demonstrated
 
