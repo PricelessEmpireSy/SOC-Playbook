@@ -16,7 +16,7 @@ This repository serves as a centralized Security Operations Center (SOC) Wiki. I
 
 ## 🛠️ Tech Stack & Tools
 
-• VS Code: Primary environment for playbook development & Markdown linting.
+• VS Code: Primary environment for playbook development and Markdown linting.
 
 • GitHub Actions: Automated validation of documentation structure.
 
